@@ -15,11 +15,10 @@ The global minimum is inside a long, narrow, parabolic shaped flat valley. To fi
 Here we show that simple steeps descent is not going to converge to global minium, using Newton's iteraion the algorithm will converge quite quickly.
 
 
-# Steeps descent 
+
 
 ![](img/steeps.PNG)
 
-# Newton iteraion 
 
 ![](img/newt.PNG)
 
