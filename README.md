@@ -12,7 +12,7 @@ The global minimum is inside a long, narrow, parabolic shaped flat valley. To fi
 
 ![](img/rosenbrock%203d.PNG)
 
-Here we show that simple steeps descent is not going to converge to global minium, using Newton's iteraion the algorithm will converge quite quickly.
+Here we show that simple steeps descent is not going to converge to global minium, using Newton's iteraion the algorithm will converge quite quickly,do know that we only have two unknown, the hessian matrix is very expensive to calculate in large size.
 
 
 
